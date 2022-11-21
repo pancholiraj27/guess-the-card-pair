@@ -1,0 +1,42 @@
+[
+  {
+    "heading": 1,
+    "image": "html.png"
+  },
+  {
+    "heading": 2,
+    "image": "css.png"
+  },
+  {
+    "heading": 3,
+    "image": "javascript.png"
+  },
+  {
+    "heading": 4,
+    "image": "react.png"
+  },
+  {
+    "heading": 5,
+    "image": "nextjs.png"
+  },
+  {
+    "heading": 6,
+    "image": "html.png"
+  },
+  {
+    "heading": 7,
+    "image": "css.png"
+  },
+  {
+    "heading": 8,
+    "image": "javascript.png"
+  },
+  {
+    "heading": 9,
+    "image": "react.png"
+  },
+  {
+    "heading": 10,
+    "image": "nextjs.png"
+  }
+]
