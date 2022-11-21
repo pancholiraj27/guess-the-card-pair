@@ -38,7 +38,7 @@ const Cards = () => {
       for (let card of cards) {
         card.classList.add("pointerNone");
       }
-      if (firstCard.src == secondCard.src) {
+      if (firstCard.src === secondCard.src) {
         console.log("You won");
         setTimeout(() => {
           alert(`You Won. Total attempt ${count}`);
